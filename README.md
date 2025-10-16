@@ -46,5 +46,4 @@ This project analyzes public (or non-confidential) customer reviews to extract *
 3. Run all cells to regenerate charts in `/outputs/charts/` and insights in `/outputs/insights.json`.
 
 ---
-**Author**: Your Name  
-**License**: MIT
+**Author**: Eka Hilal Hamdi
